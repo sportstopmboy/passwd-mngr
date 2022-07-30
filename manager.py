@@ -1,3 +1,20 @@
+# https://github.com/sportstopmboy/passwd-mngr
+
+
+# ░██████╗██████╗░░█████╗░░█████╗░██████╗░████████╗░██████╗
+# ██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██╔════╝
+# ╚█████╗░██████╔╝██║░░██║██║░░██║██████╔╝░░░██║░░░╚█████╗░
+# ░╚═══██╗██╔═══╝░██║░░██║██║░░██║██╔══██╗░░░██║░░░░╚═══██╗
+# ██████╔╝██║░░░░░╚█████╔╝╚█████╔╝██║░░██║░░░██║░░░██████╔╝
+# ╚═════╝░╚═╝░░░░░░╚════╝░░╚════╝░╚═╝░░╚═╝░░░╚═╝░░░╚═════╝░
+
+
+# Anonymous Awareness - https://bit.ly/anonymousawareness                                                                                                                                 
+# Steam - https://steamcommunity.com/id/sports_top_mboy   
+# Personal Website** - https://spoorts.000webhostapp.com
+
+
+
 import random
 from tabulate import tabulate
 import json
